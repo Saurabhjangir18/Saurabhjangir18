@@ -6,7 +6,7 @@
 - ## Skills
 - Data Analysis : Proficient in extracting, cleaning, and analyzing data to uncover patterns and trends.
 - Programming : Skilled in SQL,Python and its libraries like Pandas,NumPy,Matplotlib.
-- Data Visualization: Experienced in creating insightful visualizations to communicate complex data effectively.
+- Data Visualization: Experienced in creating insightful visualizations to communicate complex data effectively using tools like Power BI and Tableau.
 - Statistical Analysis: Knowledgeable in statistical methods and techniques for hypothesis testing and predictive modeling.
 - ## Intrests
 - Apart from data analysis, i am intrested in reading books and cricket.
